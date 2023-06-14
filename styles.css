@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+#header {
+    background-color: rgb(102, 255, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+#header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+#footer {
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+
